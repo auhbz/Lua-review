@@ -1,3 +1,7 @@
+--almost all this info can be traced back to 2 resources:
+--https://github.com/pohka/Lua-Beginners-Guide (Pohka)
+--https://www.youtube.com/watch?v=iMacxZQMPXs (Derek Banas)
+
 -- this is a comment
 --[[this is a 
 multiline
